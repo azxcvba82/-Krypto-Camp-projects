@@ -6,11 +6,6 @@
 <p align="center">The Best Socialfi News Platform</p>
 <p align="center">便捷、去中心化，為值得信任的資訊提供平台</p>
 
-<p align="center">Personal Contribution List</p>
-<p align="center">1. Solidity contract</p>
-<p align="center">2. front-end call contracts proof-of-concept & debug</p>
-<p align="center">3. Ref project: https://lens.dev/letter & https://mumbai.polygonscan.com/address/0x70a67CF6c8015E1043B456bDFE4B5020eBA26E48</p>
-
 <p align="center">
     <a href="https://hazelwu2.github.io/kcrypto-camp-final-project-team/" target="blank">Online Demo</a>
     ·
@@ -20,6 +15,12 @@
     ·
     <a href="https://whimsical.com/team-6-Y2HMTy6LPtn1fpnQtt3XWu">Whimsical</a>
 </p>
+
+
+<p align="center">Personal Contribution List</p>
+1. Solidity contract
+2. front-end call contracts proof-of-concept & debug
+3. Ref project: https://lens.dev/letter & https://mumbai.polygonscan.com/address/0x70a67CF6c8015E1043B456bDFE4B5020eBA26E48
 
 為了解決傳統媒體的信任機制，以及Web3資訊過量，難以取得正確且即時的重要訊息。<br>
 TrustNews Dao 是基於web3社群機制的鏈上媒體平台，希望同時解決傳統媒體平台資訊難以朔源，而提供正確有效的媒體人、KOL難以將資訊的分享直接變現，同時用戶可以藉由此平台輕鬆追蹤web3每天發生的大小事，畢竟幣圈一天人間一年，希望靠著系統性的整理資訊，提供資訊傳遞者適當的報酬，創造一個用戶可以信任，資訊傳遞者可以獲得回報的一個web3資訊交流平台。
