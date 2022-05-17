@@ -21,6 +21,7 @@
 1. Solidity contract<br>
 2. front-end call contracts proof-of-concept & debug<br>
 3. Ref project: https://lens.dev/letter & https://mumbai.polygonscan.com/address/0x70a67CF6c8015E1043B456bDFE4B5020eBA26E48<br>
+Original project is in private repos. Summarize partial personal contribution to this repos!<br>
 
 
 為了解決傳統媒體的信任機制，以及Web3資訊過量，難以取得正確且即時的重要訊息。<br>
